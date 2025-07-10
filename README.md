@@ -99,12 +99,27 @@ The dataset includes the following key fields:
 
 ## 📌 Conclusion
 
-This project demonstrates how machine learning can be used to predict customer satisfaction effectively. The model helps businesses:
-- Detect potential dissatisfaction early
-- Improve response time and support quality
-- Make data-driven service decisions
+📊 This project predicts Customer Satisfaction (CSAT) Scores using support data.
+
+🧹 Data was cleaned, encoded, and engineered (e.g., response time).
+
+⏱️ Response Time proved to be a key feature influencing satisfaction.
+
+⚖️ Used SMOTE to fix class imbalance and improve fairness.
+
+🤖 Trained 3 models: Logistic Regression, Random Forest, and XGBoost.
+
+🏆 Tuned XGBoost achieved the best results with ~80% accuracy.
+
+🔍 Feature importance showed response time and product type as top drivers.
+
+🚨 Helps detect low satisfaction early and improve service.
+
+🔗 Can be integrated into real-time business tools.
+
+💡 A smart, scalable ML solution for customer experience improvement.
 
 ---
 
-## 📁 Folder Structure
+
 
